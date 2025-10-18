@@ -1,3 +1,3 @@
 # Nuestra versión 1 del proyecto
-Hola, somos el grupo 2 del proyecto de ciencias de la computación de la EETAC, formado por Roger, Isil, Ribas y Raúl. Aquí os adjuntamos los códigos de la versión 1 del proyecto, con el satélite en arduino, la estación de tierra en arduino y la interfaz de la estación de tierra en python. A continuación también os adjuntamos un enlace al vídeo que contiene un breve resumen del funcionamiento de nuestros códigos y del hardware:
+Hola, somos el grupo 2 del proyecto de ciencias de la computación de la EETAC, formado por Roger, Isil, Guillem y Raúl. Aquí os adjuntamos los códigos de la versión 1 del proyecto, con el satélite en arduino, la estación de tierra en arduino y la interfaz de la estación de tierra en python. A continuación también os adjuntamos un enlace al vídeo que contiene un breve resumen del funcionamiento de nuestros códigos y del hardware:
 https://youtu.be/9xndj4gOBC0
